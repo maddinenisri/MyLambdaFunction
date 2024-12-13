@@ -40,7 +40,7 @@ dotnet restore
 Run the following command to build the solution:
 
 ```sh 
-dotnet restore
+dotnet build
 ```
 
 ### Step 4: Run the Tests
