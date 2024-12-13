@@ -60,7 +60,8 @@ dotnet publish -c Release -o publish
 Create a ZIP file of the publish directory for deployment:
 
 ```sh
-cd publish zip -r ../MyLambdaFunction.zip .
+cd publish 
+zip -r ../MyLambdaFunction.zip .
 ```
 
 
